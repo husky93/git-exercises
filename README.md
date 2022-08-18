@@ -1,1 +1,3 @@
 # git-exercises
+
+Github exercies.
